@@ -38,11 +38,11 @@ This project was completed as part of my Data Analytics training with Tech-Moms.
 
 NBA Games Dataset by nathanlauga on Kaggle.
 
-https://www.kaggle.com/datasets/nathanlauga/nba-games
+[View My NBA Dashboard](https://datastudio.google.com/reporting/57b452f4-c92e-41ab-8479-21d5491c44a4)
 
 ## Interactive Dashboard
 
-[View My NBA Dashboard](PASTE_YOUR_LOOKER_STUDIO_LINK_HERE)
+https://datastudio.google.com/reporting/57b452f4-c92e-41ab-8479-21d5491c44a4
 
 ## Key Takeaways
 
