@@ -1,4 +1,5 @@
 # 🏀 NBA Games Analysis Dashboard (2003–2022)
+![NBA Games Dashboard](ChatGPT%20Image%20Oct%2010%2C%202026%2C%2008_50_48%20PM.png)
 
 ## Project Overview
 
