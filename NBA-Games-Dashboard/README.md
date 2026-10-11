@@ -38,12 +38,9 @@ This project was completed as part of my Data Analytics training with Tech-Moms.
 
 NBA Games Dataset by nathanlauga on Kaggle.
 
-[View My NBA Dashboard](https://datastudio.google.com/reporting/57b452f4-c92e-41ab-8479-21d5491c44a4)
-
 ## Interactive Dashboard
 
-https://datastudio.google.com/reporting/57b452f4-c92e-41ab-8479-21d5491c44a4
-
+[View My Interactive NBA Dashboard](https://datastudio.google.com/reporting/57b452f4-c92e-41ab-8479-21d5491c44a4)
 ## Key Takeaways
 
 This project helped me strengthen my data visualization skills and gain hands-on experience working with multiple datasets. I learned how to transform raw data into an interactive dashboard that communicates meaningful information.
