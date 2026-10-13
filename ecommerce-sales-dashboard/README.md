@@ -20,3 +20,7 @@ An interactive e-commerce sales dashboard built in Google Looker Studio to explo
 
 ## Known Limitation
 The unique buyer count requires further validation when a fixed date range is applied.
+
+## Interactive Dashboard
+
+[View my E-Commerce Sales Dashboard in Looker Studio](https://datastudio.google.com/reporting/d86caa70-4852-48e1-9c76-4a76e360b9c5)
