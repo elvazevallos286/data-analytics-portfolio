@@ -36,6 +36,26 @@ An interactive dashboard exploring NBA game statistics, team performance, scorin
 
 **[Explore Interactive Dashboard](https://datastudio.google.com/reporting/57b452f4-c92e-41ab-8479-21d5491c44a4)**
 
+🛒 E-Commerce Sales Performance Dashboard (2021–2022)
+
+An interactive dashboard built using Google Looker Studio to analyze e-commerce sales performance, customer activity, product trends, and marketing campaigns.
+
+Tools Used: Looker Studio, CSV Datasets, Calculated Fields, Data Cleaning
+
+Project Highlights:
+
+Analyzed sales revenue and customer purchasing activity.
+
+Visualized product performance and marketing campaign insights.
+
+Created interactive charts, scorecards, and date filters.
+
+Practiced data cleaning, date formatting, and troubleshooting data quality issues.
+
+View Project on GitHub
+
+Explore Interactive Dashboard
+
 ## 🚀 Currently Learning
 
 I'm continuing to develop my skills in SQL, Python, Power BI, and data visualization while building practical projects for my portfolio.
