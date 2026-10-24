@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project analyzes Airbnb listings in Seattle, Washington, using Tableau to explore how property size and location influence nightly rental prices.
+![Airbnb Seattle Tableau Dashboard](Dashboard%201.png)
 
 ## Business Questions
 - How do Airbnb prices vary by the number of bedrooms?
