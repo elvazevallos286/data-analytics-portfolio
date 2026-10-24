@@ -56,6 +56,17 @@ View Project on GitHub
 
 Explore Interactive Dashboard
 
+### 🏡 Airbnb Seattle Market Analysis | Tableau
+
+Analyzed Airbnb listing prices across Seattle to explore how property size and location influence nightly rates. Created an interactive Tableau dashboard and a data storytelling presentation to communicate key findings.
+
+**Tools:** Tableau, Data Visualization, Data Storytelling
+
+[📊 View Project](Airbnb-Seattle-Analysis/README.md) | [🌐 Interactive Dashboard](https://public.tableau.com/app/profile/elva.zevallos/viz/AirBnBFullProject_17916039102370/Dashboard1) | [🎤 Storytelling Presentation](https://www.icloud.com/keynote/00dN9ONwhOg5XlDUw3IhDxiXA#Airbnb_Data_Storytelling)
+
+
+
+
 ## 🚀 Currently Learning
 
 I'm continuing to develop my skills in SQL, Python, Power BI, and data visualization while building practical projects for my portfolio.
