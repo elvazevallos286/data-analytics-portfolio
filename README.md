@@ -24,7 +24,7 @@ My goal is to combine my business operations experience, technical knowledge, an
 
 An interactive dashboard exploring NBA game statistics, team performance, scoring trends, and home-court advantage.
 
-**Tools Used:** Looker Studio, CSV datasets, Data Blending
+**Tools Used:** Looker Studio, CSV Datasets, Data Blending
 
 **Project Highlights:**
 - Analyzed 26,651 NBA games across 20 seasons.
@@ -32,37 +32,50 @@ An interactive dashboard exploring NBA game statistics, team performance, scorin
 - Visualized NBA game trends by season.
 - Explored team-level game statistics.
 
-**[View Project on GitHub](NBA-Games-Dashboard/README.md)**
+[**View Project on GitHub**](https://github.com/elvazevallos286/data-analytics-portfolio/blob/main/NBA-Games-Dashboard/README.md)
 
-**[Explore Interactive Dashboard](https://datastudio.google.com/reporting/57b452f4-c92e-41ab-8479-21d5491c44a4)**
+[**Explore Interactive Dashboard**](https://datastudio.google.com/reporting/57b452f4-c92e-41ab-8479-21d5491c44a4)
 
-🛒 E-Commerce Sales Performance Dashboard (2021–2022)
+---
+
+### 🛒 E-Commerce Sales Performance Dashboard (2021–2022)
 
 An interactive dashboard built using Google Looker Studio to analyze e-commerce sales performance, customer activity, product trends, and marketing campaigns.
 
-Tools Used: Looker Studio, CSV Datasets, Calculated Fields, Data Cleaning
+**Tools Used:** Looker Studio, CSV Datasets, Calculated Fields, Data Cleaning
 
-Project Highlights:
+**Project Highlights:**
+- Analyzed sales revenue and customer purchasing activity.
+- Visualized product performance and marketing campaign insights.
+- Created interactive charts, scorecards, and date filters.
+- Practiced data cleaning, date formatting, and troubleshooting data quality issues.
 
-Analyzed sales revenue and customer purchasing activity.
+[**View Project on GitHub**](ecommerce-sales-dashboard/README.md)
 
-Visualized product performance and marketing campaign insights.
+[**Explore Interactive Dashboard**](https://datastudio.google.com/reporting/d86caa70-4852-48e1-9c76-4a76e360b9c5)
 
-Created interactive charts, scorecards, and date filters.
-
-Practiced data cleaning, date formatting, and troubleshooting data quality issues.
-
-View Project on GitHub
-
-Explore Interactive Dashboard
+---
 
 ### 🏡 Airbnb Seattle Market Analysis | Tableau
 
-Analyzed Airbnb listing prices across Seattle to explore how property size and location influence nightly rates. Created an interactive Tableau dashboard and a data storytelling presentation to communicate key findings.
+An interactive Tableau dashboard analyzing Airbnb listings in Seattle to understand how property size and location affect nightly rental prices.
 
-**Tools:** Tableau, Data Visualization, Data Storytelling
+**Tools Used:** Tableau Public, Data Visualization, Exploratory Data Analysis, Data Storytelling
 
-[📊 View Project](Airbnb-Seattle-Analysis/README.md) | [🌐 Interactive Dashboard](https://public.tableau.com/app/profile/elva.zevallos/viz/AirBnBFullProject_17916039102370/Dashboard1) | [🎤 Storytelling Presentation](https://www.icloud.com/keynote/00dN9ONwhOg5XlDUw3IhDxiXA#Airbnb_Data_Storytelling)
+**Project Highlights:**
+- Compared average nightly prices across one- to six-bedroom properties.
+- Identified 1,811 one-bedroom listings in the dataset.
+- Analyzed price differences across Seattle ZIP codes using maps and bar charts.
+- Created a data storytelling presentation highlighting pricing insights for Airbnb hosts.
+
+[**View Project on GitHub**](Airbnb-Seattle-Analysis/README.md)
+
+[**Explore Interactive Dashboard**](https://public.tableau.com/app/profile/elva.zevallos/viz/AirBnBFullProject_17916039102370/Dashboard1)
+
+[**View Data Storytelling Presentation**](https://www.icloud.com/keynote/00dN9ONwhOg5XlDUw3IhDxiXA#Airbnb_Data_Storytelling)
+
+
+
 
 
 
